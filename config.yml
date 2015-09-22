@@ -1,0 +1,22 @@
+## workflow build config
+
+# id and name for the workflow (bundle id = domain.id)
+id: alfred2-qiita-team
+
+# base domain
+domain: ykmc09
+
+name: Qiita:Team Search
+description: Alfred2 workflow for Qiita:Team
+created_by: ykmc09
+website: https://github.com/ykmc09/alfred2-qiita-team
+readme: readme
+
+## development config
+
+# path is the relative path to the workflow in the project root
+path: workflow
+
+# If you are using Alfred's advanced Dropbox sync, indicate the path shown in
+# Alfred Preferences > Advanced > Syncing:
+dropbox: ~/Dropbox
